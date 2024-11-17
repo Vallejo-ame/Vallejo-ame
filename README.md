@@ -52,20 +52,12 @@
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="(https://www.facebook.com/america.vallejo.120?mibextid=ZbWKwL)" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
-     </p>
-  <p align="center">
-      <a href="https://t.me/vallejo2007" target="blank"><img align="center"
-         src="(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/qr/XA53JLTEBYAAL1" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="vallejoamerica17@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+      <p align="left">
+  <a href="https://t.me/vallejo2007" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="@unsimpledev" /></a>
+<a href="https://wa.me/qr/XA53JLTEBYAAL1" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://www.facebook.com/america.vallejo.120?mibextid=ZbWKwL" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href = "vallejoamerica17@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
       <br>
     </p>
   </samp>
@@ -80,8 +72,6 @@
       <span align="center">America Vallejo Torres</span>
     </h4>
 </span>
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-  
-  ### Gracias por ver mi perfil :kissing_closed_eyes: :kissing_closed_eyes:
+   ### Gracias por ver mi perfil :kissing_closed_eyes: :kissing_closed_eyes:
   ---
